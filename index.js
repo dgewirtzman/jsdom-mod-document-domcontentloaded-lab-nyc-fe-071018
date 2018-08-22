@@ -1,2 +1,2 @@
 /* code goes here */
-const hiddenDiv = 
+const hiddenDiv = document.querySelector("")
